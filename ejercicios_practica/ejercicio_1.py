@@ -27,3 +27,5 @@ print('La suma de las variables es =' , SUMA)
 # Repita el procedimiento para realizar la resta
 RESTA = numero_1 - numero_2
 print('La resta de las variables es =' , RESTA)
+
+#Prueba commit
